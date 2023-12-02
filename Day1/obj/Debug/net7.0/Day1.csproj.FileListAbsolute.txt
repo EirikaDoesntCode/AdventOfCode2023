@@ -1,0 +1,15 @@
+/home/eirika/soloProjects/adventOfCode2023/Day1/bin/Debug/net7.0/Day1
+/home/eirika/soloProjects/adventOfCode2023/Day1/bin/Debug/net7.0/Day1.deps.json
+/home/eirika/soloProjects/adventOfCode2023/Day1/bin/Debug/net7.0/Day1.runtimeconfig.json
+/home/eirika/soloProjects/adventOfCode2023/Day1/bin/Debug/net7.0/Day1.dll
+/home/eirika/soloProjects/adventOfCode2023/Day1/bin/Debug/net7.0/Day1.pdb
+/home/eirika/soloProjects/adventOfCode2023/Day1/obj/Debug/net7.0/Day1.csproj.AssemblyReference.cache
+/home/eirika/soloProjects/adventOfCode2023/Day1/obj/Debug/net7.0/Day1.GeneratedMSBuildEditorConfig.editorconfig
+/home/eirika/soloProjects/adventOfCode2023/Day1/obj/Debug/net7.0/Day1.AssemblyInfoInputs.cache
+/home/eirika/soloProjects/adventOfCode2023/Day1/obj/Debug/net7.0/Day1.AssemblyInfo.cs
+/home/eirika/soloProjects/adventOfCode2023/Day1/obj/Debug/net7.0/Day1.csproj.CoreCompileInputs.cache
+/home/eirika/soloProjects/adventOfCode2023/Day1/obj/Debug/net7.0/Day1.dll
+/home/eirika/soloProjects/adventOfCode2023/Day1/obj/Debug/net7.0/refint/Day1.dll
+/home/eirika/soloProjects/adventOfCode2023/Day1/obj/Debug/net7.0/Day1.pdb
+/home/eirika/soloProjects/adventOfCode2023/Day1/obj/Debug/net7.0/Day1.genruntimeconfig.cache
+/home/eirika/soloProjects/adventOfCode2023/Day1/obj/Debug/net7.0/ref/Day1.dll
